@@ -6,6 +6,23 @@ public class helloworld02 {
 		// TODO Auto-generated method stub
 
 		System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");	System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");	System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");	System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");	System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");
+		System.out.println("helooo");
 	}
 
 }
